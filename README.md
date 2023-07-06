@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Salman-Kb
-- 💻 An IT Support Engineer with bachelor's in Networks Engineering.
+- 💻 An IT Support Engineer with a bachelor's in Networks Engineering.
 - 👀 I’m interested in scripting and coding to automate my job as an IT Engineer.
+- 🧑🏻‍💻 This account shows the codes and scripts that I used with my projects and tasks.
 - 🌱 I’m currently learning linux ,python
-- 📫 You can reach me at: E-mail:	salman.kabboul@outlook.com
-                                    LinkedIn: www.linkedin.com/in/salman-kabboul
+- 📫 You can reach me at: E-mail:	salman.kabboul@outlook.com ,LinkedIn: www.linkedin.com/in/salman-kabboul
 
 
 <!---
